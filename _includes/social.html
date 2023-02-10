@@ -1,0 +1,12 @@
+<ul class="social-media-list">
+  {%- for social in site.data.social -%}
+  <li>
+    <a href="{{ social.url | append: social.username | escape }}" rel="me">
+      <svg class="svg-icon">
+        <use xlink:href="{{ '/assets/minima-social-icons.svg#' | append: social.platform | relative_url }}"></use>
+      </svg>
+      <span>{{ social.label }}</span>
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>

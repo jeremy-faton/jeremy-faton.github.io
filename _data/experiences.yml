@@ -1,0 +1,70 @@
+ditp:
+  skills: Drupal
+  eviden-url: https://eviden.com/
+
+gehc:
+  skills: PHP, JavaScript, Analyse statique
+
+lepass:
+  url: https://play.google.com/store/apps/details?id=nc.lepass.app&hl=en_US&gl=US&pli=1$
+  skills: React Native, Expo, Firebase, Elasticsearch, TypeScript
+
+lanavette:
+  url: https://www.arcenciel.nc/
+  skills: Laravel, Tailwind CSS, React
+
+tenue-commune:
+  url: https://tenue-commune.nc/
+  skills: Magento 2
+
+flowershop:
+  url: https://flowershop.nc/
+  skills: Magento 2
+
+opt:
+  url: https://www.opt.nc/
+  skills: Drupal 8/9, PostgreSQL
+
+panc:
+  url: https://play.google.com/store/apps/details?id=nc.skazy.app.panc/
+  skills: React Native, TypeScript, Expo
+
+cci:
+  url: https://www.cci.nc/
+  skills: Drupal 8/9, Nginx, MySQL
+
+mahybo:
+  url: https://mahybo.com/
+  skills: Magento 2
+
+superya:
+  url: https://superya.nc/
+  skills: React, Next.js, Material UI, Tailwind CSS
+
+mdp:
+  url: https://la-maison-du-pneu.qual.skazy.cloud/
+  skills: Magento 2
+
+legratuit:
+  url: https://www.legratuit.nc/
+  skills: Symfony, React, Express
+
+cogevie:
+  skills: Symfony, React, API Platform, PostgreSQL, Docker, Redux, TypeScript
+
+hennessy:
+  url: https://www.hennessy.com/en-int/
+  skills: Drupal 8, Symfony, Docker, MySQL
+
+navalgroup:
+  skills: phpspec, Symfony, PostgreSQL, Docker, Vue.js, Jest
+
+gbnc:
+  url: https://www.gbnc.nc/
+  skills:
+    site: Drupal 8/9
+    app: React Native, Expo, Firebase, TypeScript
+
+yatoo:
+  url: https://yatoo.nc
+  skills: React, Next.js, styled-components

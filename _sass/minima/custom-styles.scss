@@ -1,0 +1,63 @@
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+@media print {
+
+  header,
+  footer {
+    display: none;
+  }
+}
+
+.print {
+  display: none;
+
+  @media print {
+    display: unset;
+  }
+}
+
+.flex-container {
+  @include wrapper();
+  display: flex;
+  justify-content: space-between;
+
+  @media screen and (max-width: $on-palm) {
+    flex-direction: column;
+  }
+
+  @media print {
+    flex-direction: column;
+  }
+}
+
+.card.aside {
+  position: sticky;
+  top: $spacing-unit * 3 + 2;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
+}
+
+.main {
+  flex-shrink: 1;
+}
+
+.social-media-list {
+  margin: unset;
+
+  li a {
+    border: unset;
+  }
+}
+
+:root {
+  color-scheme: light dark;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
+  z-index: 100;
+}

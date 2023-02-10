@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="flex-container resume">
+  {%- if page.aside -%}
+  {%- include {{ page.aside }} -%}
+  {%- endif -%}
+
+  <main class="main page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+</div>
