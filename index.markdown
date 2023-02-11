@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: resume
+aside: aside.html
 ---
 
 ## Expériences

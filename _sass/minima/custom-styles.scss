@@ -3,7 +3,29 @@
 @media print {
 
   header,
-  footer {
+  footer,
+  aside {
     display: none;
   }
+}
+
+
+
+.flex-container {
+  @include wrapper();
+  display: flex;
+  justify-content: space-between;
+
+  @media screen and (max-width: $on-palm) {
+    flex-direction: column;
+  }
+}
+
+.social {
+  position: sticky;
+  top: $spacing-unit;
+}
+
+.main {
+  flex-shrink: 1;
 }
