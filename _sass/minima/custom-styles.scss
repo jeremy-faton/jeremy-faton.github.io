@@ -9,8 +9,6 @@
   }
 }
 
-
-
 .flex-container {
   @include wrapper();
   display: flex;
@@ -21,11 +19,23 @@
   }
 }
 
-.social {
+.card {
   position: sticky;
   top: $spacing-unit;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  gap: 10px;
 }
 
 .main {
   flex-shrink: 1;
+}
+
+.social-media-list {
+  margin: unset;
+
+  li a {
+    border: unset;
+  }
 }
