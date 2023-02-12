@@ -37,7 +37,7 @@ Anglais | Avancé - C1
 - Maintenance des sites institutionnels de l'office des postes et télécommunications, migration de version **[opt.nc](https://www.opt.nc/)**\
 *Drupal 8/9, PostgreSQL*
 
-- Développement de l'application mobile **[panc](https://play.google.com/store/apps/details?id=nc.skazy.app.panc*&hl=en_US&gl=US)**\
+- Développement de l'application mobile du Port Autonome de Nouvelle Calédonie **[panc](https://play.google.com/store/apps/details?id=nc.skazy.app.panc)**\
 *React Native, TypeScript, Expo*
 
 - Refonte des sites institutionnels de la chambre de commerce et d'industrie de Nouvelle Calédonie **[cci.nc](https://www.cci.nc)**\
