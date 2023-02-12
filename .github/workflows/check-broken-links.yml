@@ -2,10 +2,10 @@ name: Check for broken links
 
 on:
   push:
-    branches:
-      - master
-  schedule:
-    - 0 0 * * *
+    paths:
+      - ".github/workflows/check-broken-links.yml"
+  # schedule:
+  #   - 0 0 * * *
 
 jobs:
   broken-links:
