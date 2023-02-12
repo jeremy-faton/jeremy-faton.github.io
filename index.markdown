@@ -12,7 +12,7 @@ Novembre 2018 - Octobre 2020 | **Développeur full-stack**<br>Micropole<br>Nante
 
 2018 | **Eni École Informatique**<br>*Concepteur Développeur Informatique*<br>Nantes
 2010 - 2014 | **École Nationale Supérieure des Mines de Nancy**<br>*Formation Ingénieur Civil des Mines*<br>Lorraine
-2008 - 2010 | **Classes Préparatoires Scientifiques**<br>*MPSI/MP\**<br>Lycéé Victor Hugo, Besançon
+2008 - 2010 | **Classes Préparatoires Scientifiques**<br>*MPSI/MP\**<br>Lycée Victor Hugo, Besançon
 
 ## Langues 
 
