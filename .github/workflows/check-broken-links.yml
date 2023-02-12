@@ -12,6 +12,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: JustinBeckwith/linkinator-action@v1
+      - uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
-          paths: "https://jeremy-faton.github.io"
+          website_url: "https://jeremy-faton.github.io"
+          verbose: "true"
+          max_retry_time: 30
+          max_retries: 5
+          max_depth: 1
