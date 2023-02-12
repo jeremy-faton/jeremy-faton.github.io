@@ -63,7 +63,7 @@ Anglais | Avancé - C1
 Mars 2020 - Octobre 2020\
 *Symfony, React, API Platform, PostgreSQL, Docker, Redux, TypeScript*
 
-- Moët Hennessy : développement du site **[hennessy.com](https://www.hennessy.com)**\
+- Moët Hennessy : développement du site **[hennessy.com](https://www.hennessy.com/en-int)**\
 Novembre 2019 - Février 2020\
 *Drupal 8, Symfony, Docker, MySQL*
 
