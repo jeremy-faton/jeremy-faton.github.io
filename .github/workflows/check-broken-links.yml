@@ -4,8 +4,8 @@ on:
   push:
     paths:
       - ".github/workflows/check-broken-links.yml"
-  # schedule:
-  #   - 0 0 * * *
+  schedule:
+    - 0 6 * * *
 
 jobs:
   broken-links:
