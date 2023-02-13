@@ -19,9 +19,9 @@
   }
 }
 
-.card {
+.card.aside {
   position: sticky;
-  top: $spacing-unit;
+  top: $spacing-unit * 3 + 2;
   display: flex;
   flex-direction: column;
   align-items: start;
@@ -42,4 +42,11 @@
 
 :root {
   color-scheme: light dark;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background-color: $background-color;
+  z-index: 100;
 }
