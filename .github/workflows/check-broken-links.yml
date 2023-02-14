@@ -1,11 +1,8 @@
 name: Check for broken links
 
 on:
-  push:
-    paths:
-      - ".github/workflows/check-broken-links.yml"
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 * * 3'
 
 jobs:
   broken-links:
