@@ -31,7 +31,7 @@ Anglais | Avancé - C1
 - Développement d'un site e-commerce **[tenue-commune.nc](https://tenue-commune.nc/)**\
 *Magento 2*
 
-- Développement d'un site e-commerce **[flowershop.nc](https://flowershop.qual.skazy.cloud/)**\
+- Développement d'un site e-commerce **[flowershop.nc](https://flowershop.nc/)**\
 *Magento 2*
 
 - Maintenance des sites institutionnels de l'office des postes et télécommunications, migration de version **[opt.nc](https://www.opt.nc/)**\
@@ -53,7 +53,7 @@ Anglais | Avancé - C1
 *Magento 2*
 
 - Maintenance et évolutions du site d'annonce **[legratuit.nc](https://legratuit.nc/)**\
-*Symfony, React*
+*Symfony, React, Express*
 
 - Développement de modules Magento 2 (Réservation, ...)
 
