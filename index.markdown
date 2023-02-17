@@ -1,6 +1,7 @@
 ---
 layout: resume
 aside: aside.html
+title: CV
 ---
 
 ## Expériences
@@ -22,51 +23,51 @@ Anglais | Avancé - C1
 
 ### Skazy
 
-- Développement de l'application mobile **[lepass.nc](https://play.google.com/store/apps/details?id=nc.lepass.app&hl=en_US&gl=US&pli=1)**\
- *React Native, Expo, Firebase, Elasticsearch, TypeScript*
+  - Développement de l'application mobile **[lepass.nc]({{ site.data.experiences.lepass.url }})**\
+  *{{ site.data.experiences.lepass.skills }}*
 
-- Développement d'un site de réservation des navettes aéroports **[lanavette.nc](https://arc-en-ciel.qual.skazy.cloud)**\
-*Laravel, Tailwind CSS, React*
+  - Développement d'un site de réservation des navettes aéroports **[lanavette.nc]({{ site.data.experiences.lanavette.url }})**\
+  *{{ site.data.experiences.lanavette.skills }}*
 
-- Développement d'un site e-commerce **[tenue-commune.nc](https://tenue-commune.nc/)**\
-*Magento 2*
+  - Développement d'un site e-commerce **[tenue-commune.nc]({{ site.data.experiences.tenue-commune.url }})**\
+  *{{ site.data.experiences.tenue-commune.skills }}*
 
-- Développement d'un site e-commerce **[flowershop.nc](https://flowershop.nc/)**\
-*Magento 2*
+  - Développement d'un site e-commerce **[flowershop.nc]({{ site.data.experiences.flowershop.url }})**\
+  *{{ site.data.experiences.flowershop.skills}}*
 
-- Maintenance des sites institutionnels de l'office des postes et télécommunications, migration de version **[opt.nc](https://www.opt.nc/)**\
-*Drupal 8/9, PostgreSQL*
+  - Maintenance des sites institutionnels de l'office des postes et télécommunications, migration de version **[opt.nc]({{ site.data.experiences.opt.url }})**\
+  *{{ site.data.experiences.opt.skills }}*
 
-- Développement de l'application mobile du Port Autonome de Nouvelle Calédonie **[panc](https://play.google.com/store/apps/details?id=nc.skazy.app.panc)**\
-*React Native, TypeScript, Expo*
+  - Développement de l'application mobile du Port Autonome de Nouvelle Calédonie **[panc]({{ site.data.experiences.panc.url }})**\
+  *{{ site.data.experiences.panc.skills }}*
 
-- Refonte des sites institutionnels de la chambre de commerce et d'industrie de Nouvelle Calédonie **[cci.nc](https://www.cci.nc)**\
-*Drupal 8/9, Nginx, MySQL*
+  - Refonte des sites institutionnels de la chambre de commerce et d'industrie de Nouvelle Calédonie **[cci.nc]({{ site.data.experiences.cci.url }})**\
+  *{{ site.data.experiences.cci.skills }}*
 
-- Développement d'un site e-commerce de cosmétiques **[mahybo.com](https://mahybo.com)**\
-*Magento 2*
+  - Développement d'un site e-commerce de cosmétiques **[mahybo.com]({{ site.data.experiences.mahybo.url }})**\
+  *{{ site.data.experiences.mahybo.skills }}*
 
-- Développement d'un service de restauration **[superya.nc](https://superya.nc)**\
-*React, Next.js, Material UI, Tailwind CSS*
+  - Développement d'un service de restauration **[superya.nc]({{ site.data.experiences.superya.url }})**\
+  *{{ site.data.experiences.superya.skills }}*
 
-- Développement d'un site e-commerce de vente et montages de pneus **[lamaisondupneu.nc](https://la-maison-du-pneu.qual.skazy.cloud/)**\
-*Magento 2*
+  - Développement d'un site e-commerce de vente et montages de pneus **[lamaisondupneu.nc]({{ site.data.experiences.mdp.url }})**\
+  *{{ site.data.experiences.mdp.skills }}*
 
-- Maintenance et évolutions du site d'annonce **[legratuit.nc](https://legratuit.nc/)**\
-*Symfony, React, Express*
+  - Maintenance et évolutions du site d'annonce **[legratuit.nc]({{ site.data.experiences.legratuit.url }})**\
+  *{{ site.data.experiences.legratuit.skills }}*
 
-- Développement de modules Magento 2 (Réservation, ...)
+  - Développement de modules Magento 2 (Réservation, ...)
 
 ### Micropole
 
-- Cogévie : outil de livrets statistiques pour un courtier en assurances\
-Mars 2020 - Octobre 2020\
-*Symfony, React, API Platform, PostgreSQL, Docker, Redux, TypeScript*
+  - Cogévie : outil de livrets statistiques pour un courtier en assurances\
+  Mars 2020 - Octobre 2020\
+  *{{ site.data.experiences.cogevie.skills }}*
 
-- Moët Hennessy : développement du site **[hennessy.com](https://www.hennessy.com/en-int)**\
-Novembre 2019 - Février 2020\
-*Drupal 8, Symfony, Docker, MySQL*
+  - Moët Hennessy : développement du site **[hennessy.com]({{ site.data.experiences.hennessy.url }})**\
+  Novembre 2019 - Février 2020\
+  *{{ site.data.experiences.hennessy.sills }}*
 
-- NavalGroup : développement d'une application métier\
-Novembre 2018 - Novembre 2019\
-*phpspec, Symfony, PostgreSQL, Docker, Vue.js, Jest*
+  - NavalGroup : développement d'une application métier\
+  Novembre 2018 - Novembre 2019\
+  *{{ site.data.experiences.navalgroup.skills }}*
