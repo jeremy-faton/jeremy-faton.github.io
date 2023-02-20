@@ -3,9 +3,16 @@
 @media print {
 
   header,
-  footer,
-  aside {
+  footer {
     display: none;
+  }
+}
+
+.print {
+  display: none;
+
+  @media print {
+    display: unset;
   }
 }
 
@@ -15,6 +22,10 @@
   justify-content: space-between;
 
   @media screen and (max-width: $on-palm) {
+    flex-direction: column;
+  }
+
+  @media print {
     flex-direction: column;
   }
 }

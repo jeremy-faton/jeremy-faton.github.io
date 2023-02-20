@@ -1,6 +1,9 @@
 <aside class="page-content">
   <div class="wrapper card aside">
-    <h1>{{ site.data.aside.headline }}</h1>
+    <h1>
+      <span class="print">{{ site.title }} - </span>
+      {{ site.data.aside.headline }}
+    </h1>
     {%- include social.html -%}
   </div>
 </aside>

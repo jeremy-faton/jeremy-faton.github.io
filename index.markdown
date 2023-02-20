@@ -19,6 +19,12 @@ Novembre 2018 - Octobre 2020 | **Développeur full-stack**<br>Micropole<br>Nante
 
 Anglais | Avancé - C1
 
+## Compétences
+
+<p style="text-align: center;">
+Symfony · React Native · Laravel · React.js · Magento · TypeScript · Next.js · Redux.js ·  Drupal · MySQL · Nginx · Gitlab CI · Expo · Firebase · Docker · Linux · Node.js
+</p>
+
 ## Réalisations
 
 ### Skazy
@@ -66,7 +72,7 @@ Anglais | Avancé - C1
 
   - Moët Hennessy : développement du site **[hennessy.com]({{ site.data.experiences.hennessy.url }})**\
   Novembre 2019 - Février 2020\
-  *{{ site.data.experiences.hennessy.sills }}*
+  *{{ site.data.experiences.hennessy.skills }}*
 
   - NavalGroup : développement d'une application métier\
   Novembre 2018 - Novembre 2019\
