@@ -20,7 +20,7 @@
 
 title: Jérémy Faton
 tagline: Home
-author: 
+author:
   name: Jérémy Faton
 description: >- # this means to ignore newlines until "baseurl:"
   Jeremy Faton's resume
@@ -39,6 +39,14 @@ header_pages:
 
 minima:
   skin: auto
+
+webrick:
+  headers:
+    Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+    X-Content-Type-Options: nosniff
+    X-Frame-Options: SAMEORIGIN
+    Referrer-Policy: no-referrer
+    Content-Security-Policy: default-src 'self'
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
