@@ -42,11 +42,15 @@ minima:
 
 webrick:
   headers:
-    Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+    Strict-Transport-Security: "max-age=63072000; includeSubDomains; preload"
     X-Content-Type-Options: nosniff
     X-Frame-Options: SAMEORIGIN
-    Referrer-Policy: no-referrer
-    Content-Security-Policy: default-src 'self'
+    Referrer-Policy: strict-origin-when-cross-origin
+    Content-Security-Policy: "default-src 'self'; style-src 'unsafe-inline' 'self'; font-src 'self' data:"
+    X-Download-Options: noopen
+    X-Xss-Protection: "1; mode=block"
+    Permissions-Policy: "accelerometer=(), autoplay=(), camera=(), fullscreen=(self), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), sync-xhr=(self), usb=()"
+    X-Permitted-Cross-Domain-Policies: none
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
