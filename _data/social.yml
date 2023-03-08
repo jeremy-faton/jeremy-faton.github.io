@@ -1,0 +1,9 @@
+- platform: github
+  username: jeremy-faton
+  url: https://github.com/
+  label: github.com/jeremy-faton
+
+- platform: linkedin
+  username: jeremy-faton
+  url: https://linkedin.com/in/
+  label: in/jeremy-faton

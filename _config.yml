@@ -26,8 +26,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jeremy Faton's resume
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jeremyfaton.me" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: jeremy-faton
-linkedin_username: jeremy-faton
 
 # Build settings
 theme: minima
