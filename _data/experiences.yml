@@ -51,3 +51,9 @@ hennessy:
 
 navalgroup:
   skills: phpspec, Symfony, PostgreSQL, Docker, Vue.js, Jest
+
+gbnc:
+  url: https://www.gbnc.nc
+  skills: 
+    site: Drupal 8/9
+    app: React Native, Expo, Firebase, TypeScript
