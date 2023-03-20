@@ -6,14 +6,15 @@ title: CV
 
 ## Expériences
 
-Janvier 2021 - Décembre 2022 | **Développeur full-stack**<br>Skazy NC<br>Noumea, Province Sud, Nouvelle Calédonie
-Novembre 2018 - Octobre 2020 | **Développeur full-stack**<br>Micropole<br>Nantes, Pays de la Loire, France
+Avril 2023 - présent | **Ingénieur Etudes et Développement**<br>*Webnet*<br>Nantes, Pays de la Loire
+Janvier 2021 - Décembre 2022 | **Développeur full-stack**<br>*Skazy NC*<br>Noumea, Province Sud, Nouvelle-Calédonie
+Novembre 2018 - Octobre 2020 | **Développeur full-stack**<br>*Micropole*<br>Nantes, Pays de la Loire
 
 ## Éducation
 
-2018 | **Eni École Informatique**<br>*Concepteur Développeur Informatique*<br>Nantes
-2010 - 2014 | **École Nationale Supérieure des Mines de Nancy**<br>*Formation Ingénieur Civil des Mines*<br>Lorraine
-2008 - 2010 | **Classes Préparatoires Scientifiques**<br>*MPSI/MP\**<br>Lycée Victor Hugo, Besançon
+2018 | **Eni École Informatique**<br>*Concepteur Développeur Informatique*<br>Nantes, Pays de la Loire
+2010 - 2014 | **École Nationale Supérieure des Mines de Nancy**<br>*Formation Ingénieur Civil des Mines*<br>Nancy, Lorraine
+2008 - 2010 | **Classes Préparatoires Scientifiques**<br>*MPSI/MP\**<br>Lycée Victor Hugo, Besançon, Franche-Comté
 
 ## Langues
 
