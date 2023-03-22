@@ -39,7 +39,7 @@ mdp:
   skills: Magento 2
 
 legratuit:
-  url: https://legratuit.nc
+  url: https://web.archive.org/web/20230308004600/https://www.legratuit.nc/
   skills: Symfony, React, Express
 
 cogevie:
@@ -54,6 +54,6 @@ navalgroup:
 
 gbnc:
   url: https://www.gbnc.nc
-  skills: 
+  skills:
     site: Drupal 8/9
     app: React Native, Expo, Firebase, TypeScript
